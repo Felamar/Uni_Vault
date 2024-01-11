@@ -1,5 +1,5 @@
-# Conceptos basicos
-Conceptos básicos de 
+#notes
+Conceptos básicos sobre la [[Teoría de Control]]
 - **Variable controlada**: Es la cantidad o condición que se mide y controla. Es salida (el resultado)
 - **Variable manipulada**: Es la cantidad o condición que el controlador cambia para afectar el valor de la variable controlada
 - **Controlar**: Medir el valor de la variable controlada del sistema y aplica la variable manipulada al sistema para corregir o limitar una desviación del valor medido a partir de un valor deseado.
