@@ -4,71 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5acbbc63d3a4eff3",
+        "id": "1186d9f792c58fbf",
         "type": "tabs",
         "children": [
           {
-            "id": "fef52e83a47db67e",
+            "id": "8fbd3d0961745faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P_Concurrente_Paralela/Programación Concurrente y Paralela.md",
+                "file": "P_Concurrente_Paralela/T1 Mapa Mental.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03de9ebedf06b34a",
+            "id": "edcce6546a6b1453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria_Control/Conceptos Basicos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d8fd1d8b97e5d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria_Control/Conceptos Basicos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8cfa0b46a25421e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P_Concurrente_Paralela/Distribucion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f55c18cd327cd87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P_Concurrente_Paralela/Paralelismo.md",
+                "file": "Teoria_Control/T1 Propiedades de Sistemas Lineales Invariantes en el Tiempo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria_Control/Conceptos Basicos.md",
+                "file": "P_Concurrente_Paralela/T1 Mapa Mental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria_Control/Conceptos Basicos.md",
+                "file": "P_Concurrente_Paralela/T1 Mapa Mental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria_Control/Conceptos Basicos.md"
+                "file": "P_Concurrente_Paralela/T1 Mapa Mental.md"
               }
             }
           }
@@ -195,14 +158,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d8fd1d8b97e5d9a",
+  "active": "8fbd3d0961745faf",
   "lastOpenFiles": [
+    "Teoria_Control/Teoría de Control.md",
+    "Redes_Inalambricas/Unidad 1.md",
+    "Teoria_Control/T1 Propiedades de Sistemas Lineales Invariantes en el Tiempo.md",
+    "Tec_Inteligencia_Artificial/Tec. de Inteligencia Artificial.md",
+    "Desarrollo_Apps_Web/T2.md",
+    "P_Concurrente_Paralela/T1 Mapa Mental.md",
+    "Teoria_Control/Conceptos Basicos.md",
+    "Teoria_Control/ax1bx2Lay1by2.png",
+    "Teoria_Control/x1x2Ly1y2.png",
+    "Teoria_Control/axLay.png",
+    "Teoria_Control/xLy.png",
+    "axLay 1.png",
+    "Tablero en blanco.png",
+    "Teoria_Control/Conceptos_Basicos.md",
     "P_Concurrente_Paralela/Distribucion.md",
     "P_Concurrente_Paralela/Introducción.md",
     "P_Concurrente_Paralela/Paralelismo.md",
     "P_Concurrente_Paralela/Programación Concurrente y Paralela.md",
-    "Teoria_Control/Conceptos Basicos.md",
-    "Teoria_Control/Teoría de Control.md",
     "Untitled.md",
     "Tec_Inteligencia_Artificial",
     "Arquitectura_Computadoras",
@@ -210,7 +185,6 @@
     "Teoria_Control/Conceptos_Básicos.md",
     "Teoria_Control",
     "Redes_Inalambricas/Concepto de Concurrencia.md",
-    "Redes_Inalambricas/Unidad 1.md",
     "Redes_Inalambricas/Redes Inalámbricas.md",
     "Redes_Inalambricas",
     "P_Concurrente_Paralela",

@@ -1,4 +1,4 @@
-## Introducción a las [[Redes Inalámbricas]]
+# Introducción a las [[Redes Inalámbricas]]
 LAN inalámbrica (WLAN), funciona bajo el estándar IEEE 802.11, este estándar **define cómo se utiliza la radio frecuencia (RF)**
 Las WLAN utilizan RF, en lugar de cables. La RF tiene las siguientes características:
 - La RF no tiene límites, como los límites de un cable envuelto.
@@ -20,11 +20,22 @@ Estas ondulaciones se conocen como **ondas senoidales**, y son los componentes d
 Este modelo es útil para conocer la reflexión de las señales sobre la tierra, se basa en óptica geométrica. Este modelo toma en cuenta la altura de las antenas receptora  y transmisora.
 
 La reflexión es el cambio de dirección de un rayo o una onda que ocurre en la superficie de separación entre dos medios, de tal forma que regresa al medio inicial. Ejemplos comunes son la reflexión de la luz, el sonido y las ondas en el agua. 
+# Elementos de una red Inalámbrica
+En las WLAN cierto es que se requiere de **elementos externos** que realicen la operación de enlace, pero hay que recordar que el aire es un medio muy difícil de controlar para estos casos y como veremos **hay factores de riesgos involucrados** con la administración de la transmisión.
 
+> [!info] Determinantes de la seguridad de la transmisión:  
+> - **La curvatura de la tierra**
+> 	Se toma en cuenta debido a que en largas distancias las señales no viajarían rectas, más bien caerían en el suelo y será una perdida.
+> - **Las interferencias y tiempo atmosférico**
+> 	Tiempo atmosférico y las interferencias son **inevitables**, pero con un caso de estudio se evitaría graves problemas del diseño e implementación.
+> - **La zona de Fresnel**
+> 	Divide el espacio de enlace en zonas dándole un valor a estas, y concluye que si los obstáculos que hay entre el enlace no pasa de un 60%, la transmisión puede efectuarse.
 
+Lo componentes mínimos y comunes, de una WLAN, se puede resumir así:
+- Puente o router Wireless
+- Puntos de Acceso
+- PC Cards o NIC inalámbrica
+- Antena y otros
 
-
-
-
-## Elementos de una red Inalámbrica
 ## Arquitecturas de red
+
