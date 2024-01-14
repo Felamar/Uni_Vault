@@ -4,15 +4,24 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "1186d9f792c58fbf",
         "type": "tabs",
         "children": [
           {
             "id": "8fbd3d0961745faf",
+=======
+        "id": "89167ea5fbd7910a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce0cc30c6667bc9",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "P_Concurrente_Paralela/T1 Mapa Mental.md",
                 "mode": "source",
                 "source": false
@@ -38,13 +47,15 @@
               "type": "markdown",
               "state": {
                 "file": "Teoria_Control/T1 Propiedades de Sistemas Lineales Invariantes en el Tiempo.md",
+=======
+                "file": "P_Concurrente_Paralela/Mapa mental.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "P_Concurrente_Paralela/T2 Implementación de hilos.md",
+=======
+                "file": "P_Concurrente_Paralela/Mapa mental.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "P_Concurrente_Paralela/T2 Implementación de hilos.md",
+=======
+                "file": "P_Concurrente_Paralela/Mapa mental.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +169,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "P_Concurrente_Paralela/T2 Implementación de hilos.md"
+=======
+                "file": "P_Concurrente_Paralela/Mapa mental.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -171,6 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "daf466283a221d42",
   "lastOpenFiles": [
     "P_Concurrente_Paralela/T1 Mapa Mental.md",
@@ -199,6 +223,21 @@
     "Teoria_Control/Conceptos_Básicos.md",
     "Teoria_Control",
     "Redes_Inalambricas/Concepto de Concurrencia.md",
+=======
+  "active": "dce0cc30c6667bc9",
+  "lastOpenFiles": [
+    "P_Concurrente_Paralela/Programación Concurrente y Paralela.md",
+    "P_Concurrente_Paralela/Mapa mental.md",
+    "P_Concurrente_Paralela/Concepto de Concurrencia.md",
+    "P_Concurrente_Paralela/Introducción.md",
+    "P_Concurrente_Paralela/Paralelismo.md",
+    "P_Concurrente_Paralela/Procesamiento paralelo.md",
+    "P_Concurrente_Paralela/Distribucion.md",
+    "Teoria_Control/Conceptos_Basicos.md",
+    "Teoria_Control/Conceptos_Básicos.md",
+    "Teoria_Control",
+    "Redes_Inalambricas/Unidad 1.md",
+>>>>>>> Stashed changes
     "Redes_Inalambricas/Redes Inalámbricas.md",
     "Redes_Inalambricas",
     "P_Concurrente_Paralela",
