@@ -1,4 +1,4 @@
-#assignment
+[[Programación Concurrente y Paralela]] #assignment
 ## Pipes
 Una pipe es una técnica para pasar información desde un proceso o comando hacia otro. A diferencia de otras formas de comunicación interna entre procesos (IPC), una pipe se refiere a una comunicación de un solo sentido.
 ## Named pipes (fifo)
