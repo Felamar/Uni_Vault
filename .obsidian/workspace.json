@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "82717502a74eb817",
+            "id": "85bc35a9bf39d05e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P_Concurrente_Paralela/Concepto de Concurrencia.md",
+                "file": "Teoria_Control/Practica 1 - Laplace por MatLab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a0238d33d9a956d5",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria_Control/T2. Transformadas de Laplace.md",
+                "file": "Teoria_Control/Practica 1 - Laplace por MatLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria_Control/T2. Transformadas de Laplace.md",
+                "file": "Teoria_Control/Practica 1 - Laplace por MatLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria_Control/T2. Transformadas de Laplace.md"
+                "file": "Teoria_Control/Practica 1 - Laplace por MatLab.md"
               }
             }
           }
@@ -158,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10232bbca4dba03c",
+  "active": "85bc35a9bf39d05e",
   "lastOpenFiles": [
-    "P_Concurrente_Paralela/Concepto de Concurrencia.md",
     "Teoria_Control/T2. Transformadas de Laplace.md",
+    "Teoria_Control/Practica 1 - Laplace por MatLab.md",
+    "P_Concurrente_Paralela/Concepto de Concurrencia.md",
     "P_Concurrente_Paralela/Distribucion.md",
     "P_Concurrente_Paralela/Paralelismo.md",
     "P_Concurrente_Paralela/Programación Concurrente y Paralela.md",
