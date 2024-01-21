@@ -24,3 +24,5 @@ Los autores suelen referirse a la programación concurrente como un concepto gen
 	- Sistemas operativos
 	- Lenguajes de programación de alto nivel
 	- Algoritmos implementados
+
+### Exclusión mutua
