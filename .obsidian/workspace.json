@@ -8,19 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10232bbca4dba03c",
+            "id": "0a8859798aefd6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria_Control/T2. Transformadas de Laplace.md",
+                "file": "Teoria_Control/Tarea no se.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "92df06efa6fdeb02",
+        "type": "tabs",
+        "children": [
           {
-            "id": "85bc35a9bf39d05e",
+            "id": "b2013debb9df2a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a0238d33d9a956d5",
@@ -99,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria_Control/Practica 1 - Laplace por MatLab.md",
+                "file": "Teoria_Control/Tarea no se.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria_Control/Practica 1 - Laplace por MatLab.md",
+                "file": "Teoria_Control/Tarea no se.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria_Control/Practica 1 - Laplace por MatLab.md"
+                "file": "Teoria_Control/Tarea no se.md"
               }
             }
           }
@@ -160,17 +164,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85bc35a9bf39d05e",
+  "active": "0a8859798aefd6cc",
   "lastOpenFiles": [
-    "Teoria_Control/T2. Transformadas de Laplace.md",
     "Teoria_Control/Practica 1 - Laplace por MatLab.md",
+    "Teoria_Control/Tarea no se.md",
+    "Teoria_Control/Conceptos Basicos.md",
+    "Teoria_Control/T2. Transformadas de Laplace.md",
+    "Tec_Inteligencia_Artificial/Tec de Inteligencia Artificial.md",
+    "Tec_Inteligencia_Artificial/Tec. de Inteligencia Artificial.md",
+    "Teoria_Control/Existencia de la Transformada de Laplace.md",
     "P_Concurrente_Paralela/Concepto de Concurrencia.md",
     "P_Concurrente_Paralela/Distribucion.md",
     "P_Concurrente_Paralela/Paralelismo.md",
     "P_Concurrente_Paralela/Programación Concurrente y Paralela.md",
     "Teoria_Control/Transformada de Laplace.md",
     "Teoria_Control/T1 Propiedades de Sistemas Lineales Invariantes en el Tiempo.md",
-    "Teoria_Control/Conceptos Basicos.md",
     "Arquitectura_Computadoras/15-Enero-24.md",
     "Arquitectura_Computadoras/Resumen Unidad 1.md",
     "Teoria_Control/x1x2Ly1y2.png",
@@ -179,7 +187,6 @@
     "P_Concurrente_Paralela/T2 Implementación de hilos.md",
     "Teoria_Control/Teoría de Control.md",
     "Redes_Inalambricas/Unidad 1.md",
-    "Tec_Inteligencia_Artificial/Tec. de Inteligencia Artificial.md",
     "Desarrollo_Apps_Web/T2.md",
     "Teoria_Control/ax1bx2Lay1by2.png",
     "Teoria_Control/axLay.png",
@@ -196,7 +203,6 @@
     "Redes_Inalambricas/Concepto de Concurrencia.md",
     "Redes_Inalambricas/Redes Inalámbricas.md",
     "Redes_Inalambricas",
-    "P_Concurrente_Paralela",
-    "Actividad de participación 1.1.md"
+    "P_Concurrente_Paralela"
   ]
 }
